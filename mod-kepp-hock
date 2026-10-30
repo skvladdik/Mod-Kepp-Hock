@@ -1,0 +1,18 @@
+Mod-Kepp-Hock/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── config/
+│   └── settings.ini
+│
+├── reshade/
+│   └── KeppHock.ini
+│
+├── docs/
+│   ├── INSTALL.md
+│   └── CHANGELOG.md
+│
+└── screenshots/
+    └── README.md
