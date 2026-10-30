@@ -1,10 +1,10 @@
-Mod Kepp Hock
+# Mod Kepp Hock
 
-A bright and vibrant visual preset for Grand Theft Auto V Enhanced.
+**A bright and vibrant visual preset for Grand Theft Auto V Enhanced.**
 
 Mod Kepp Hock is a community-made ReShade preset focused on richer colors, balanced contrast and a brighter visual atmosphere.
 
-Features
+## Features
 
 - Bright and vibrant color palette
 - Enhanced color saturation
@@ -12,36 +12,37 @@ Features
 - Warm visual atmosphere
 - Custom ReShade configuration
 
-Compatibility
+## Compatibility
 
-Component| Target
-Game| GTA V Enhanced
-Platform| Windows 10 / 11
-Graphics API| DirectX 12
-Mode| Story Mode
-Version| 1.0
+| Component | Target |
+|---|---|
+| Game | GTA V Enhanced |
+| Platform | Windows 10 / 11 |
+| Graphics API | DirectX 12 |
+| Mode | Story Mode |
+| Version | 1.0 |
 
-Project Structure
+## Project Structure
 
-- "config/" — project settings
-- "reshade/" — ReShade preset
-- "docs/" — installation guide and changelog
-- "screenshots/" — before and after screenshots
+- `config/` — project settings
+- `reshade/` — ReShade preset
+- `docs/` — installation guide and changelog
+- `screenshots/` — before and after screenshots
 
-Installation
+## Installation
 
-Read the "Installation Guide" (docs/INSTALL.md).
+Read the [Installation Guide](docs/INSTALL.md).
 
-Screenshots
+## Screenshots
 
 Screenshots will be added after testing the preset in Story Mode.
 
-Disclaimer
+## Disclaimer
 
 This is an unofficial community project. It is not affiliated with or endorsed by Rockstar Games.
 
-Story Mode only. Do not use modified files in GTA Online.
+**Story Mode only. Do not use modified files in GTA Online.**
 
-Credits
+## Credits
 
 Created by the Mod Kepp Hock Project.
